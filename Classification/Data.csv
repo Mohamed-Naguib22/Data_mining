@@ -13,7 +13,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 63,60,Female,150,83,198,2.39,0.013,negative
 64,60,Male,199,99,92,3.43,5.37,positive
 54,94,Female,122,67,97,1.42,0.012,negative
-47,76,Male,120,70,319,2.57,0.003,negative
+47,76,,120,70,319,2.57,0.003,negative
 61,81,Male,118,66,134,1.49,0.017,positive
 86,73,Female,114,68,87,1.11,0.776,positive
 45,70,Female,100,68,96,0.606,0.004,negative
@@ -32,7 +32,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 54,125,Male,131,82,95,1.31,8.3,positive
 35,62,Male,137,61,321,4.58,0.003,negative
 68,61,Male,121,49,98,6.48,0.021,positive
-56,60,Female,145,62,105,0.929,0.013,negative
+,60,Female,145,62,105,0.929,0.013,negative
 50,61,Male,136,70,136,1.37,1.15,positive
 64,58,Male,156,76,82,6.78,0.012,positive
 65,60,Male,166,82,117,4.24,0.004,negative
@@ -55,7 +55,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 57,82,Female,121,62,91,4.39,0.007,negative
 28,78,Female,127,61,114,19.47,0.01,positive
 50,90,Male,125,73,96,2.41,0.006,negative
-49,59,Male,110,65,149,3.18,0.003,negative
+49,59,,110,65,149,3.18,0.003,negative
 29,57,Male,140,52,103,36.24,0.011,positive
 80,76,Female,150,81,110,2.21,0.031,positive
 45,61,Male,130,74,251,2.19,0.015,positive
@@ -71,7 +71,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 46,78,Male,115,65,123,4.45,0.007,negative
 52,63,Male,123,82,86,4.02,0.007,negative
 58,91,Female,120,80,177,18.15,0.005,positive
-61,60,Male,125,88,90,0.865,0.085,positive
+61,60,,125,88,90,0.865,0.085,positive
 54,58,Female,130,80,125,3.3,0.006,negative
 52,66,Male,94,63,115,0.718,0.219,positive
 57,94,Male,95,65,392,3.45,0.003,negative
@@ -83,7 +83,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 80,65,Female,112,58,222,2.91,0.048,positive
 50,93,Male,119,63,174,300,0.888,positive
 72,63,Female,110,59,162,3.2,0.016,positive
-62,60,Male,140,80,219,9.35,0.005,positive
+62,,Male,140,80,219,9.35,0.005,positive
 58,72,Female,138,86,189,12.02,1.07,positive
 40,76,Male,157,93,193,4.66,0.003,negative
 45,74,Male,140,85,85,4.18,0.003,negative
@@ -125,7 +125,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 60,62,Male,115,75,125,1.64,1.79,positive
 80,60,Male,135,85,166,3.46,1.95,positive
 47,125,Male,121,60,89,2.27,0.392,positive
-45,65,Male,137,81,115,2.15,0.327,positive
+45,65,,137,81,115,2.15,0.327,positive
 38,90,Female,135,75,108,0.452,0.046,positive
 71,89,Female,135,64,322,2,0.006,negative
 60,86,Male,135,65,187,35.55,0.006,positive
@@ -137,13 +137,13 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 57,64,Male,117,68,94,4.16,0.019,positive
 67,58,Male,119,72,109,1.5,0.009,negative
 67,62,Female,109,63,362,1.73,0.006,negative
-56,79,Male,85,44,97,1.28,0.006,negative
+,79,Male,85,44,97,1.28,0.006,negative
 43,79,Female,89,57,98,2.46,0.006,negative
 45,79,Female,87,47,82,2.38,0.003,negative
 50,80,Male,98,52,110,4.61,0.003,negative
 64,79,Male,99,55,105,1.36,1.97,positive
 63,78,Female,116,60,180,2.58,0.005,negative
-60,78,Male,96,57,116,264.4,0.681,positive
+60,78,,96,57,116,264.4,0.681,positive
 53,77,Female,105,58,92,0.687,0.009,negative
 60,89,Female,95,70,93,20.71,0.106,positive
 44,91,Female,100,71,116,7.02,0.014,negative
@@ -169,7 +169,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 60,100,Female,170,103,197,3.36,0.012,negative
 46,76,Female,169,95,152,2.19,0.006,negative
 46,78,Male,150,76,169,3.43,0.008,negative
-55,83,Male,169,78,109,1.49,0.025,positive
+55,83,,169,78,109,1.49,0.025,positive
 55,76,Female,149,75,347,20.21,0.009,positive
 75,71,Male,144,74,104,4.43,0.013,negative
 40,75,Female,148,73,117,3.32,0.008,negative
@@ -182,7 +182,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 60,60,Male,120,60,126,1.3,0.046,positive
 55,67,Male,145,83,191,0.683,2.99,positive
 61,60,Male,138,81,321,6.17,0.001,negative
-51,72,Male,141,89,133,8.57,0.008,positive
+51,72,,141,89,133,8.57,0.008,positive
 30,65,Female,137,61,109,1.76,0.003,negative
 66,69,Male,129,73,215,300,0.005,positive
 62,61,Female,193,86,96,2.99,0.004,negative
@@ -265,7 +265,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 60,100,Male,178,84,99,2.05,1.18,positive
 53,94,Female,126,65,105,2.38,0.003,negative
 63,67,Male,120,64,94,2.72,0.245,positive
-63,60,Male,137,78,177,7.64,0.013,positive
+63,,Male,137,78,177,7.64,0.013,positive
 33,90,Male,139,67,50,0.813,0.004,positive
 50,71,Male,117,61,94,5.86,0.011,negative
 60,61,Female,99,62,92,43.83,0.008,positive
@@ -305,7 +305,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 41,92,Male,147,78,155,7.01,0.003,positive
 75,89,Female,145,68,96,2.09,0.518,positive
 58,90,Male,150,84,94,1.43,0.425,positive
-42,88,Male,152,87,113,2.31,0.003,negative
+42,88,,152,87,113,2.31,0.003,negative
 72,88,Female,155,85,202,64.86,0.019,positive
 60,83,Male,153,91,104,0.51,0.01,negative
 58,60,Male,144,79,99,1.65,0.431,positive
@@ -355,7 +355,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 68,62,Female,143,75,102,10.44,0.068,positive
 63,51,Female,130,70,77,3.2,0.006,negative
 43,52,Female,125,68,100,0.979,0.007,negative
-61,52,Male,157,75,76,5.83,0.026,positive
+61,52,,157,75,76,5.83,0.026,positive
 55,61,Female,128,49,78,1.98,0.019,positive
 65,68,Male,130,70,274,12.41,0.012,positive
 63,60,Male,122,55,100,34.36,0.081,positive
@@ -366,7 +366,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 65,70,Female,150,75,114,0.961,0.008,negative
 90,59,Male,164,75,415,5.87,0.014,negative
 65,59,Female,183,77,119,2.65,0.068,positive
-63,59,Male,111,49,95,7.91,0.003,positive
+63,,Male,111,49,95,7.91,0.003,positive
 59,59,Male,127,56,208,5.34,0.412,positive
 78,59,Male,113,65,80,2.65,0.693,positive
 54,59,Female,93,64,141,11.32,0.372,positive
@@ -389,7 +389,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 68,74,Male,124,67,96,96.02,0.098,positive
 65,69,Male,121,65,443,0.345,0.005,negative
 67,77,Male,116,69,113,7.44,0.053,positive
-60,60,Male,132,88,98,0.607,0.013,negative
+60,60,,132,88,98,0.607,0.013,negative
 65,75,Male,98,53,407,1.82,0.039,positive
 65,67,Male,108,76,319,2.38,0.094,positive
 66,62,Male,105,70,290,300,0.016,positive
@@ -514,7 +514,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 55,86,Female,165,83,162,2.3,0.457,positive
 42,94,Male,98,46,123,1.3,0.006,negative
 72,60,Male,178,109,156,17.04,0.627,positive
-56,61,Male,67,80,91,2.09,0.004,negative
+,61,Male,67,80,91,2.09,0.004,negative
 60,67,Male,150,70,145,3.23,0.005,negative
 22,63,Female,170,104,143,1.97,0.006,negative
 63,103,Male,126,75,92,14.01,0.196,positive
@@ -653,7 +653,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 70,100,Male,169,91,303,300,0.015,positive
 70,103,Male,170,90,104,0.937,0.007,negative
 70,101,Female,142,96,99,2.13,0.136,positive
-43,75,Male,157,87,74,4.2,0.004,negative
+43,75,,157,87,74,4.2,0.004,negative
 72,75,Female,125,73,82,1.86,0.007,negative
 34,81,Male,124,75,168,33.48,0.003,positive
 35,75,Male,116,72,129,8.95,0.003,positive
@@ -712,7 +712,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 55,59,Female,110,65,208,2.53,0.024,positive
 47,57,Male,140,52,87,12.26,0.008,positive
 56,76,Male,150,81,262,3.95,0.05,positive
-75,61,Female,130,74,92,3.61,0.009,negative
+75,,Female,130,74,92,3.61,0.009,negative
 60,98,Male,110,76,99,3.17,0.025,positive
 60,58,Female,120,69,115,8.8,0.021,positive
 60,83,Female,150,94,247,1.03,0.003,negative
@@ -726,7 +726,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 52,78,Male,115,65,109,8.12,0.005,positive
 36,63,Male,123,82,110,1.57,2.12,positive
 40,91,Male,120,80,101,2.74,0.005,negative
-56,60,Male,125,88,95,2.12,0.037,positive
+,60,Male,125,88,95,2.12,0.037,positive
 60,58,Male,130,80,93,0.925,0.026,positive
 53,66,Male,94,63,202,2.84,0.003,negative
 49,94,Male,95,65,157,3.11,1.6,positive
@@ -816,7 +816,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 50,73,Female,125,78,336,6.36,0.005,positive
 71,89,Female,141,93,90,1.16,0.012,negative
 60,81,Female,125,79,123,25.1,0.009,positive
-60,83,Male,104,57,134,2.25,0.003,negative
+60,83,,104,57,134,2.25,0.003,negative
 37,84,Male,126,75,92,1.66,0.325,positive
 72,81,Female,125,69,155,6.3,0.012,positive
 58,80,Male,109,67,150,6.19,0.014,negative
@@ -863,7 +863,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 63,79,Female,139,89,274,1.22,0.012,negative
 44,74,Male,145,85,115,2.11,0.193,positive
 60,82,Male,135,80,100,2.59,2.99,positive
-49,93,Male,105,71,93,3.33,0.041,positive
+49,93,,105,71,93,3.33,0.041,positive
 77,90,Female,110,65,137,3.12,0.043,positive
 70,71,Male,91,57,223,0.858,0.024,positive
 75,82,Female,91,56,97,3.59,0.007,negative
@@ -945,7 +945,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 43,89,Female,111,52,97,1.69,0.005,negative
 33,87,Male,101,45,319,1.32,0.006,negative
 46,96,Male,97,55,134,13.7,0.068,positive
-46,89,Female,91,51,87,111,0.004,positive
+46,89,,91,51,87,111,0.004,positive
 74,91,Male,91,56,96,1.01,0.032,positive
 45,85,Male,106,63,274,3.24,0.013,negative
 68,82,Male,80,42,89,1.2,0.011,negative
@@ -988,7 +988,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 66,66,Male,160,83,103,71.77,0.015,positive
 52,60,Male,117,68,110,1.04,0.81,positive
 57,95,Male,129,77,251,4.34,10.3,positive
-55,94,Male,98,46,87,1.93,0.01,negative
+55,94,,98,46,87,1.93,0.01,negative
 43,64,Female,160,77,191,1.15,0.011,negative
 55,70,Male,120,55,334,2.49,0.008,negative
 72,64,Female,112,65,109,1.32,0.076,positive
@@ -1025,7 +1025,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 77,94,Female,91,52,116,1.42,0.026,positive
 65,36,Male,106,58,88,1.25,0.088,positive
 40,95,Male,101,76,167,3.57,0.029,positive
-64,67,Male,120,60,240,5.22,0.009,negative
+64,67,,120,60,240,5.22,0.009,negative
 48,92,Male,147,78,132,32.53,0.003,positive
 68,89,Male,145,68,134,0.706,10,positive
 61,90,Male,150,84,159,3.75,1.43,positive
@@ -1095,7 +1095,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 29,76,Male,157,93,242,4.79,0.004,negative
 65,74,Male,140,85,106,4.35,10,positive
 50,85,Female,119,76,130,16.1,0.009,positive
-30,60,Male,202,88,197,12.89,0.003,positive
+30,60,,202,88,197,12.89,0.003,positive
 57,60,Female,175,88,152,3,0.004,negative
 54,60,Male,124,58,169,2.99,0.023,positive
 43,60,Female,144,54,109,10.26,0.016,positive
@@ -1110,7 +1110,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 70,62,Male,114,69,165,8.49,0.011,positive
 50,75,Male,116,71,126,2.24,0.053,positive
 63,73,Male,115,72,191,24.64,0.022,positive
-56,71,Female,119,76,321,43.51,0.003,positive
+,71,Female,119,76,321,43.51,0.003,positive
 60,73,Male,135,81,133,46.1,0.003,positive
 63,68,Male,116,74,109,88.28,0.024,positive
 45,70,Male,113,62,215,0.569,0.007,negative
@@ -1168,7 +1168,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 56,74,Male,95,53,98,1.72,0.043,positive
 55,61,Female,96,48,154,3.43,0.7,positive
 33,74,Female,119,78,102,2.57,0.003,negative
-53,61,Male,119,75,115,6.67,0.028,positive
+53,,Male,119,75,115,6.67,0.028,positive
 43,80,Male,65,53,88,2.54,0.007,negative
 38,83,Male,126,76,221,1.11,0.008,negative
 30,72,Male,100,57,89,19.26,0.026,positive
@@ -1296,7 +1296,7 @@ age,impulse,gender,pressurehight,pressurelow,glucose,CK-MB,troponin,class
 50,79,Female,92,55,415,16.95,0.005,positive
 64,68,Female,91,61,119,2.97,1.53,positive
 65,60,Male,112,56,95,4.22,1.04,positive
-62,60,Female,145,67,208,1.29,0.009,negative
+62,,Female,145,67,208,1.29,0.009,negative
 67,81,Female,150,75,80,4.8,0.009,negative
 62,90,Male,136,68,141,1.83,0.014,negative
 43,90,Male,95,50,118,1.33,0.544,positive
